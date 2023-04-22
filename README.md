@@ -17,6 +17,9 @@ _Create a GitHub Action and use it in a workflow._
   The start <details> should have `open` as well.
   Do not use quotes on the <details> tag attributes.
 -->
+<!--
+  Just adding a comment
+-->
 
 <details id=0>
 <summary><h2>Welcome</h2></summary>
